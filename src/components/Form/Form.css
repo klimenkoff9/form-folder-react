@@ -1,0 +1,12 @@
+input, #saveBtn, #cancelBtn{ 
+    display: none;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    min-height: 25vh;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+}
